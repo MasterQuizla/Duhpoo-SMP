@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "be830fb3-5d15-33e0-9d09-1748151a3abf",
+    "name": "Quizla",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "bc1604d3-2a94-3572-a522-94b6927ae100",
+    "name": "MasterQuizla",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
